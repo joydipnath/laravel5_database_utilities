@@ -1,0 +1,20 @@
+{
+    "name": "joydip/laravel5_database_utilities",
+    "description": "A package for taking Database dump from the UI.",
+    "type": "laravel",
+    "license": "MIT",
+    "keywords": ["laravel"],
+    "authors": [
+        {
+            "name": "Joydip Nath",
+            "email": "joydipsworld@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Joydip\\Laravel5_database_utilities\\" : "/src"
+        }
+    }
+}
