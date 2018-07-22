@@ -10,11 +10,11 @@
             "email": "joydipsworld@yahoo.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Joydip\\Laravel5_database_utilities\\" : "/src"
+            "Joydip\\Laravel5_database_utilities\\" : "src/"
         }
     }
 }
