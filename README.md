@@ -4,7 +4,7 @@ This Laravel package can create a backup of your Database and dump into your pub
 
 ## Installation and usage
 
-This package requires PHP 5.6 or higher and Laravel 5.5 or higher.
+This package requires PHP 5.6 or higher and Laravel 5.4 ( tested on Laravel 5.4, Let me know for other versions in case you come accross).
 
 Open your config/app.php and add the following line to aliases array.
 
